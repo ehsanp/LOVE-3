@@ -1,1 +1,1 @@
-chrome.browserAction.setPopup({popup: "http://www.mysite.com/my_extension/popup.html"});
+window.alert(5 + 6);
